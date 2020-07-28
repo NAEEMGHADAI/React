@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #d2dbdd;
+}
+button {
+  padding: 12px 20px;
+  text-transform: uppercase;
+  color: white;
+  background: #9b599b;
+  outline: none;
+  border: 2px solid #ecf0f1;
+  cursor: pointer;
+  border-radius: 5px;
+}
+div {
+  width: 100%;
+  height: 100vh;
+  background: #8e44ad;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
