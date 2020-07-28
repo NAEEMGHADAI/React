@@ -1,11 +1,11 @@
-📌 PROJECT TITLE
+## PROJECT TITLE
 Clock runing on webpage using react hooks
 
-📌 GETTING STARTED
+## GETTING STARTED
 time is changed based on useState by using UpdateTime Function.
 ctime is update using setInterval function very 1sec.
 
-📌Installing and Running the tests
+## Installing and Running the tests
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -75,11 +75,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-📌Author
+## Author
 💠Naeem Ghadai
 
-📌Licence
+## Licence
 This Project is Licensed to naeem ghadai
 
-📌Acknowledgment
+## Acknowledgment
 Thapa Technical Youtube Channel
