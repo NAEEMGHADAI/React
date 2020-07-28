@@ -1,10 +1,10 @@
-📌 PROJECT TITLE
+## PROJECT TITLE
 Simple Number Increment program to show use of useState Function.
 
-📌 GETTING STARTED
+## GETTING STARTED
 On Button Click, Number is Incremented Using useState method.
 
-📌Installing and Running the tests
+## Installing and Running the tests
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -74,11 +74,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-📌Author
+## Author
 💠Naeem Ghadai
 
-📌Licence
+## Licence
 This Project is Licensed to naeem ghadai
 
-📌Acknowledgment
+## Acknowledgment
 Thapa Technical Youtube Channel
