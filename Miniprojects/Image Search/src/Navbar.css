@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: cursive;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+a.active_class {
+  color: #ffffff;
+  border-bottom: 1px solid red;
+}
+
+.menu_style {
+  width: 100%;
+  line-height: 60px;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
